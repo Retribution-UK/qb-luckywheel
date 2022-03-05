@@ -1,10 +1,10 @@
 Config = {}
 
 Config.WheelModel = `vw_prop_vw_luckywheel_02a`
-Config.Vehicle = `furia`                                  -- Model name for vehicle to win/on display
+Config.Vehicle = `bttf`                                  -- Model name for vehicle to win/on display
 Config.Amount = 25                                        -- Amount of chips needed to spin wheel
-Config.WheelPos = vector3(949.6968, 45.06157, 70.9)       -- Position for wheel
-Config.VehPos = vector4(935.11, 42.61, 71.525, 0.0)       -- Position for vehicle
+Config.WheelPos = vector3(977.84, 49.82, 74.68)       -- Position for wheel
+Config.VehPos = vector4(963.2, 47.9, 75.57, 182.91)       -- Position for vehicle
 Config.UseThirdEyeInteraction = true
 Config.GiveCarOnWin = true
 Config.SpinCooldown = 120 -- Minutes
