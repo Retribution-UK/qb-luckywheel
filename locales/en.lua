@@ -1,8 +1,8 @@
 local Translations = {
     need_chips = 'You Need %{Chipsamount} Chips To Spin!',
     you_won = 'You Won %{prize}',
-    pistol = 'A .50 Pistol!',
-    cash = '$300,000 in Cash!',    
+    wrench = 'A Wrench!',
+    cash = '$30,000 in Cash!',    
     marked = 'Marked Bills!',    
     chips = '25,000 Casino Chips!',    
     sandwich_water = '....Sandwich and Water?',    
